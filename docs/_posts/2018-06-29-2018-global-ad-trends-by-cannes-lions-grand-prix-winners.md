@@ -1,19 +1,9 @@
 ---
+layout: post
 title: 칸 광고제 그랑프리 수상작으로 보는 2018 해외 광고 트렌드
+categories: Marketing
 description: 2018년 Cannes Lions Grand Prix Winners를 소개. 타이드, 버드와이저, P&G 등의 광고 사례.
 date: 2018-06-29 00:00:47 +0900
-layout: post
-categories:
-  - Marketing
-tags:
-  - CorruptionDetector
-  - P&G
-  - TrashIsles
-  - 적십자
-  - 칸광고제
-  - 콜롬비아
-  - 타이드
-  - 해외광고
 ---
 일반적으로 세계 3대 광고제라고 하면, 칸 국제광고제(Cannes Lions International Festival of Creativity), 클리오 광고제(Clio Awards), 뉴욕 페스티벌(New York Festival)을 이야기 합니다. 그 중에서도 칸 광고제(Cannes Lions)는 단순히 세계 3대 광고제 중 하나라고만 하기엔 부족할 정도로 상징적인 의미가 있습니다. 축구 선수들이 세계적인 인정을 받는 행사에 월드컵이 있다면, 마케팅 및 광고를 하는 사람들에게는 칸 광고제가 있습니다. 올해 2018년에는 행사 참가자 수나 제출된 광고의 수가 많이 줄었다고는 하지만, 여전히 광고계를 대표하는 행사임에는 틀림없습니다.
 

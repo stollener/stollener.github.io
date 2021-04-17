@@ -1,17 +1,9 @@
 ---
+layout: post
 title: 게으름을 이겨내고 독학으로 프로그래머가 되는 방법
 description: 혼자서 프로그래밍을 배우는 건 쉬운 일이 아니지만, 게으름을 극복하고 프로그래머가 되는 방법을 소개합니다.
+categories: Programming
 date: 2018-07-01 00:00:47 0900
-layout: post
-categories:
-  - Programming
-tags:
-  - 100DaysOfCode
-  - 100일코딩
-  - 게으름극복
-  - 꾸준함
-  - 독학
-  - 프로그래머
 ---
 ![a laptop with code editor in the screen](/wp-content/uploads/2018/07/laptop-with-code-editor.jpg)
 
