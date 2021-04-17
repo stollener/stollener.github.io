@@ -1,6 +1,5 @@
 ---
 title: 테스트
 layout: post
-permalink: /blog/test-post-1/
 ---
 test post
