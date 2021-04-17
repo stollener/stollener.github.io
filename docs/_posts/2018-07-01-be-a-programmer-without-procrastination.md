@@ -1,7 +1,7 @@
 ---
 title: 게으름을 이겨내고 독학으로 프로그래머가 되는 방법
+description: 혼자서 프로그래밍을 배우는 건 쉬운 일이 아니지만, 게으름을 극복하고 프로그래머가 되는 방법을 소개합니다.
 date: 2018-07-01 00:00:47 0900
-author: stollener
 layout: post
 categories:
   - Programming

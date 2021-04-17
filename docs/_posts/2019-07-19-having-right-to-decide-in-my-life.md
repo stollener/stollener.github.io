@@ -1,7 +1,6 @@
 ---
 title: 내 인생에 결정권을 갖는다는 것
 date: 2019-07-19 12:07:48 0900
-author: stollener
 layout: post
 categories:
   - Life
