@@ -20,12 +20,11 @@
 
 title: Stollener
 email: ""
-author:
-  name: stollener
+author: stollener
 description: >- # this means to ignore newlines until "baseurl:"
   Deep into Python
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://stollener.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.stollener.com # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:title/
 twitter_username: stollener
 github_username:  stollener
