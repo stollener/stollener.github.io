@@ -14,7 +14,7 @@ tags:
   - 독학
   - 프로그래머
 ---
-<img loading="lazy" class="aligncenter size-medium wp-image-44" src="http://52.79.84.181/wp-content/uploads/2018/07/laptop-with-code-editor-300x199.jpg" alt="a laptop with code editor in the screen" width="300" height="199" srcset="https://www.stollener.com/wp-content/uploads/2018/07/laptop-with-code-editor-300x199.jpg 300w, https://www.stollener.com/wp-content/uploads/2018/07/laptop-with-code-editor-768x510.jpg 768w, https://www.stollener.com/wp-content/uploads/2018/07/laptop-with-code-editor.jpg 803w" sizes="(max-width: 300px) 100vw, 300px" />
+![a laptop with code editor in the screen](/wp-content/uploads/2018/07/laptop-with-code-editor.jpg)
 
 먼저 저에 대한 이야기로 시작하려 합니다. 초등학교 때 쯤이었던 걸로 기억합니다. 혼자서 책이나 PC통신을 통해 BASIC 언어, C 언어에 대해 공부하며 간단한 입출력을 따라 해보며 프로그래밍에 흥미를 느꼈죠. 영화에 나오는 해커를 보며, 나도 저런 멋진 사람이 되고싶다고 생각하기도 했습니다. 하지만 혼자서 뭔가를 배운다는 건 저 같이 게으른 사람에게는 쉽지 않은 일이었죠. 시간이 흘러 돌아보니, 문과를 나오고 인문학을 전공한 마케팅 일을 하는 회사원이 되어 있었죠.
 
@@ -24,20 +24,15 @@ tags:
 
 * * *
 
-<h4 id="&quot;성패는-열정이-아니라-꾸준함이-결정한다&quot;" style="text-align: center;">
-  성패는 열정이 아니라 꾸준함이 결정한다.
-</h4>
+#### 성패는 열정이 아니라 꾸준함이 결정한다.
 
-<img loading="lazy" class="aligncenter size-medium wp-image-45" src="http://52.79.84.181/wp-content/uploads/2018/07/turtle-steady-300x198.jpg" alt="a turtle slowly walk on the ground" width="300" height="198" srcset="https://www.stollener.com/wp-content/uploads/2018/07/turtle-steady-300x198.jpg 300w, https://www.stollener.com/wp-content/uploads/2018/07/turtle-steady-768x508.jpg 768w, https://www.stollener.com/wp-content/uploads/2018/07/turtle-steady.jpg 803w" sizes="(max-width: 300px) 100vw, 300px" />  
-<!-- *Photo by Ray Hennessy on Unsplash* -->
+![a turtle slowly walk on the ground](/wp-content/uploads/2018/07/turtle-steady.jpg)
 
 사랑은 열정에 의해 시작되죠. 하지만 그 사랑이 계속되어 결실을 이루는 건, 열정보다는 그 사랑을 살피고 가꾸어 나가는 꾸준함이 결정합니다. 프로그래밍을 배우는 것도 마찬가지입니다. 열정 만으로는 학습이 지속되질 못 합니다. 특히 다른 공부를 하고 있거나 다른 직업을 갖고 계신 분들에게는, 신경 써야하는 다른 일들이 너무 많기 때문에 열정이 2~3일을 가지 못하고 멈추게 되죠.
 
 결국 독학으로 프로그래머가 될 수 있느냐 없느냐는 얼마나 큰 열정을 갖고 있느냐의 문제라기 보다는, 얼마나 오랫동안 꾸준히 지속할 수 있느냐로 귀결됩니다.
 
-<h4 id="&quot;목표와-시간&quot;" style="text-align: center;">
-  ‘목표’와 ‘시간’
-</h4>
+#### ‘목표’와 ‘시간’
 
 학창시절 시험 공부할 때를 생각해보면, 공부하는 방법에는 두 가지 방법이 있습니다.
 
@@ -48,9 +43,7 @@ tags:
 
 제가 추천하는 방법은, 2번 ‘시간’ 타입으로 일단 시작하라 입니다. 1번 ‘목표’도 중요하지만, 목표부터 정하고 그 다음에 시작하려 한다면 평생 목표만 고민할 수도 있습니다. 그리고 일단 “프로그래머가 되겠다”는 것 자체가 이미 목표입니다. 구체적인 목표는 목표라기 보다는 전략에 가깝고, 그건 시간을 투자해서 학습하고 배우면서도 충분히 설정하고 수정해 갈 수 있는 부분이라고 생각합니다.
 
-<h4 id="&quot;전-세계를-상대로-약속을-하자&quot;" style="text-align: center;">
-  전 세계를 상대로 약속을 하자.
-</h4>
+#### 전 세계를 상대로 약속을 하자.
 
 그렇다면 “앞으로 매일매일 꾸준히 2시간씩 코딩을 공부하겠어!”라는 다짐을 하면 다 된 것일까요? 배움을 시작할 때는 거의 항상 이런 다짐을 했을 것입니다. 실패하는 건, 다짐을 하지 않아서도 아니고 본인의 의지가 박약한 게 문제인 것도 아닙니다. 문제는 다짐을 아무도 모르게 본인 스스로에게만 했다는 것입니다.
 
@@ -60,13 +53,11 @@ tags:
 
 그 방법을 다음 섹션에서 알려드립니다.
 
-<h4 id="&quot;100일코딩-도전-프로젝트&quot;" style="text-align: center;">
-  #100일코딩 도전 프로젝트
-</h4>
+#### #100일코딩 도전 프로젝트
 
 해외의 개발자 팟캐스트를 듣다가 알게된 프로젝트가 바로, “100 Days Of Code” (100일 코딩) 챌린지 프로젝트입니다. 캐나다의 Alexander Kallaway 라는 개발자가 시작한 프로젝트인데요, 트위터에서 #100DaysOfCode 라는 해시태그를 검색해보시면 얼마나 많은 전세계 사람들이 서로의 코딩 학습에 응원을 보내는지 알 수 있으실 겁니다.
 
-이 챌린지 프로젝트의 기본 규칙을 간단히 요약하면 다음과 같습니다. 더 자세한 내용은 제가 번역한 <a href="https://github.com/kallaway/100-days-of-code/blob/master/intl/ko/README-ko.md" target="_blank" rel="noopener noreferrer">프로젝트 공식 규칙 및 FAQ</a>에서 확인하실 수 있습니다.
+이 챌린지 프로젝트의 기본 규칙을 간단히 요약하면 다음과 같습니다. 더 자세한 내용은 제가 번역한 [프로젝트 공식 규칙 및 FAQ](https://github.com/kallaway/100-days-of-code/blob/master/intl/ko/README-ko.md)에서 확인하실 수 있습니다.
 
   * 매일 1시간 이상의 목표 시간을 정하고 코딩을 한다.
   * 매일 코딩한 내용을 트위터에 #100DaysOfCode (한국어로는 #100일코딩) 해시태그를 달아서 트윗한다.
@@ -74,11 +65,9 @@ tags:
 
 위 내용 중에, 공유하는 수단은 트위터가 아닌 다른 소셜 미디어도 괜찮습니다. 하지만 짧은 텍스트 기반의 오픈된 소셜미디어라는 특성을 가진 트위터가 가장 적합한 매체이긴 합니다.
 
-<a href="http://twitter.com/stollener" target="_blank" rel="noopener noreferrer">제 트위터</a>에서 관련 트윗들을 보시면, 얼마나 많은 세계인들이 좋아요 또는 답글로 응원을 보내고 있는지 아실 수 있습니다. 저의 하루하루를 공유하고 그 내용을 많은 이가 지켜보고 있다는 사실은, 도전을 포기하지 않고 이어나가게 하는 원동력이 됩니다.
+[제 트위터](http://twitter.com/stollener)에서 관련 트윗들을 보시면, 얼마나 많은 세계인들이 좋아요 또는 답글로 응원을 보내고 있는지 아실 수 있습니다. 저의 하루하루를 공유하고 그 내용을 많은 이가 지켜보고 있다는 사실은, 도전을 포기하지 않고 이어나가게 하는 원동력이 됩니다.
 
-<h4 id="&quot;도전-55일까지-성공한-저의-조언&quot;" style="text-align: center;">
-  도전 55일까지 성공한 저의 조언
-</h4>
+#### 도전 55일까지 성공한 저의 조언
 
 저는 이제 도전한 지 55일이 지나는 시점에 이 글을 쓰고 있습니다. 100일까지는 아직 많이 남았지만, 이미 큰 변화를 느끼고 있습니다.
 
@@ -88,7 +77,7 @@ tags:
 
 * * *
 
-#### 참고 사이트 {#"참고-사이트"}
+#### 참고 사이트
 
-  * <a href="https://github.com/kallaway/100-days-of-code/blob/master/intl/ko/README-ko.md" target="_blank" rel="noopener noreferrer">100 Days Of Code 규칙 및 FAQ (한국어 번역은 제가 진행했습니다.)</a>
-  * <a href="http://www.100daysofcode.com/" target="_blank" rel="noopener noreferrer">100 Days Of Code 공식 사이트 (영문)</a>
+  * [100 Days Of Code 규칙 및 FAQ (한국어 번역은 제가 진행했습니다.)](https://github.com/kallaway/100-days-of-code/blob/master/intl/ko/README-ko.md)
+  * [100 Days Of Code 공식 사이트 (영문)](http://www.100daysofcode.com/")

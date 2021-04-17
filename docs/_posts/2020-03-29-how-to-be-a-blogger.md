@@ -18,9 +18,10 @@ tags:
 ---
 이 블로그에 글을 올리고 있다. 그러니 나는 블로거라고 할 수 있다. 하지만&#8230; 과연 나 자신을 블로거라고 부를 수 있는지 의심이 든다.
 
-### 블로그를 시작한 이유<figure class="wp-block-image size-large">
+### 블로그를 시작한 이유
 
-<img loading="lazy" width="1024" height="683" src="https://www.stollener.com/wp-content/uploads/2020/03/dustin-lee-jLwVAUtLOAQ-unsplash-1024x683.jpg" alt="typewriter, note, book, glass and others on the blogger's table" class="wp-image-88" srcset="https://www.stollener.com/wp-content/uploads/2020/03/dustin-lee-jLwVAUtLOAQ-unsplash-1024x683.jpg 1024w, https://www.stollener.com/wp-content/uploads/2020/03/dustin-lee-jLwVAUtLOAQ-unsplash-300x200.jpg 300w, https://www.stollener.com/wp-content/uploads/2020/03/dustin-lee-jLwVAUtLOAQ-unsplash-768x512.jpg 768w, https://www.stollener.com/wp-content/uploads/2020/03/dustin-lee-jLwVAUtLOAQ-unsplash-1536x1024.jpg 1536w, https://www.stollener.com/wp-content/uploads/2020/03/dustin-lee-jLwVAUtLOAQ-unsplash-2048x1366.jpg 2048w, https://www.stollener.com/wp-content/uploads/2020/03/dustin-lee-jLwVAUtLOAQ-unsplash-1568x1045.jpg 1568w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Photo by Dustin Lee on Unsplash</figcaption></figure> 
+![typewriter, note, book, glass and others on the blogger's table](/wp-content/uploads/2020/03/dustin-lee-jLwVAUtLOAQ-unsplash-1024x683.jpg)
+*Photo by Dustin Lee on Unsplash*
 
 일생 동안 가장 많은 글을 쓴 시기는 대학생 시절이었던 것 같다. 과제 레포트 작성을 하고, 시험지 답안을 작성하고, 자기소개서를 쓰는 등 글을 써야하는 일이 많았던 것 같다. 하지만 내 개인적인 글은 거의 쓰지 않았다.
 
@@ -34,13 +35,14 @@ tags:
 
 이 블로그를 만든지 어느새 2년 가까이 되었다. 2018년 6월부터 2019년 7월까지 총 3개의 포스트를 올렸다. 오늘은 2020년 3월 28일이니 정확히는 1년 9개월 정도의 기간에 달랑 3개의 짧은 글만 써서 올려둔 것이다.
 
-구글 애널리틱스에서 방문자 수를 조회해보면 이제 한 달에 100명도 안 된다고 나온다. 아마 그 숫자에는 검색엔진 봇과 스팸봇도 상당수 포함돼 있을테니 실제 블로그 글을 읽는 방문자 수는 더 적을 것이다. 방문자 수가 워낙 적은 것도 영향이 있을 것 같지만 Bounce rate(이탈률)도 거의 90%에 달한다.<figure class="wp-block-image size-large">
+구글 애널리틱스에서 방문자 수를 조회해보면 이제 한 달에 100명도 안 된다고 나온다. 아마 그 숫자에는 검색엔진 봇과 스팸봇도 상당수 포함돼 있을테니 실제 블로그 글을 읽는 방문자 수는 더 적을 것이다. 방문자 수가 워낙 적은 것도 영향이 있을 것 같지만 Bounce rate(이탈률)도 거의 90%에 달한다.
 
-<img loading="lazy" width="1024" height="470" src="https://www.stollener.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-29-at-1.37.16-AM-1024x470.png" alt="screenshot of Google Analytics page" class="wp-image-91" srcset="https://www.stollener.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-29-at-1.37.16-AM-1024x470.png 1024w, https://www.stollener.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-29-at-1.37.16-AM-300x138.png 300w, https://www.stollener.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-29-at-1.37.16-AM-768x352.png 768w, https://www.stollener.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-29-at-1.37.16-AM-1536x704.png 1536w, https://www.stollener.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-29-at-1.37.16-AM-1568x719.png 1568w, https://www.stollener.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-29-at-1.37.16-AM.png 1976w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>구글 애널리틱스 화면</figcaption></figure> 
+![screenshot of Google Analytics page](/wp-content/uploads/2020/03/Screen-Shot-2020-03-29-at-1.37.16-AM-1024x470.png)
+*구글 애널리틱스 화면*
 
 ### 낭비의 비용
 
-게다가 더욱 놀랄만한 사실은 이 블로그를 운영하는데 비용까지 들이고 있다는 사실이다. 정확히는 <a href="https://aws.amazon.com/lightsail/" target="_blank" rel="noreferrer noopener" aria-label="아마존 AWS Lightsail (opens in a new tab)">아마존 AWS Lightsail</a> 가상서버 서비스를 이용하고 있다. 매달 4천 원 정도되는 돈이 나가고 있다. 거기에 <a href="https://www.stollener.com/" target="_blank" rel="noreferrer noopener" aria-label="stollener.com (opens in a new tab)">stollener.com</a> 도메인 비용도 매년 만 원 넘게 나가고 있으니 일 년에 대충 6만 원 정도는 지출하고 있는 셈이다.
+게다가 더욱 놀랄만한 사실은 이 블로그를 운영하는데 비용까지 들이고 있다는 사실이다. 정확히는 [아마존 AWS Lightsail](https://aws.amazon.com/lightsail/) 가상서버 서비스를 이용하고 있다. 매달 4천 원 정도되는 돈이 나가고 있다. 거기에 [stollener.com](https://www.stollener.com/) 도메인 비용도 매년 만 원 넘게 나가고 있으니 일 년에 대충 6만 원 정도는 지출하고 있는 셈이다.
 
 네이버 블로그, 티스토리, 브런치나 아니면 다른 소셜 미디어도 넘쳐나서 얼마든지 공짜로 블로그를 운영할 수 있는 시대에 별도로 사이트를 유지하느라 돈을 쓰는 게 굉장히 바보 같아 보일 것 같기도 하다. 심지어 네이버 블로그 같은 가입형 블로그는 방문자 유입도 훨씬 수월하다. 최소한 이런 외딴 섬 같은 블로그 사이트보다는 나을 것이다.
 
