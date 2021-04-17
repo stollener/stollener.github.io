@@ -3,7 +3,6 @@ title: 게으름을 이겨내고 독학으로 프로그래머가 되는 방법
 date: 2018-07-01 00:00:47 0900
 author: stollener
 layout: post
-permalink: /blog/be-a-programmer-without-procrastination/
 categories:
   - Programming
 tags:

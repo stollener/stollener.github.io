@@ -2,7 +2,6 @@
 title: 칸 광고제 그랑프리 수상작으로 보는 2018 해외 광고 트렌드
 date: 2018-06-29 00:00:47 +0900
 layout: post
-permalink: /blog/2018-global-ad-trends-by-cannes-lions-grand-prix-winners/
 categories:
   - Marketing
 tags:

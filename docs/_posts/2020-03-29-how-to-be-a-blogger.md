@@ -3,7 +3,6 @@ title: 블로거가 되는 방법 (이라 쓰고 돈 낭비하는 방법이라 �
 date: 2020-03-29 01:48:32 0900
 author: stollener
 layout: post
-permalink: /blog/how-to-be-a-blogger/
 categories:
   - Life
 tags:
