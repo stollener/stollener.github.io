@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 내 인생에 결정권을 갖는다는 것
+description: 개인 생활보다 회사의 업무가 우선인 직장인의 한계와 고민에 대해
 categories: Life
 date: 2019-07-19 12:07:48 0900
 ---
