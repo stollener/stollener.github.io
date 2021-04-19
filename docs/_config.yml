@@ -28,7 +28,7 @@ url: https://www.stollener.com # the base hostname & protocol for your site, e.g
 permalink: /blog/:title/
 twitter_username: stollener
 github_username:  stollener
-g-analytics: UA-121414696-1
+google-analytics: UA-121414696-1
 
 # Build settings
 theme: minima
